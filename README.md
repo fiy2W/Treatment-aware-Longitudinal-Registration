@@ -83,5 +83,10 @@ Patient2,Scan1,Scan2
 ## Citation
 If this work is helpful for you, please cite our paper as follows:
 ```bib
-TBD
+@article{han2024deform,
+  title={To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection},
+  author={Han, Luyi and Tan, Tao and Zhang, Tianyu and Gao, Yuan and Wang, Xin and Longo, Valentina and Ventura-D{\'\i}az, Sof{\'\i}a and D'Angelo, Anna and Teuwen, Jonas and Mann, Ritse},
+  journal={arXiv preprint arXiv:2401.09336},
+  year={2024}
+}
 ```
